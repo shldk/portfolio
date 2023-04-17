@@ -11,10 +11,7 @@ module.exports = {
         black: "#000",
         forestgreen: "#007913",
         steelblue: "#005c9c",
-      },
-      fontFamily: { inter: "Inter", "konstant-grotesk": "'Konstant Grotesk'" },
-    },
-    screens: { sm: { max: "420px" } },
+      }
   },
   corePlugins: { preflight: false },
 };

@@ -21,7 +21,7 @@ const Skill: NextPage<SkillType> = memo(
 
     return (
       <div
-        className="flex-1 relative font-medium font-inter text-gray text-right text-xl"
+        className="flex-1 relative font-inter font-light text-gray text-right text-[26px]"
         style={textStyle}
       >
         {value}
