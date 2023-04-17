@@ -10,8 +10,9 @@ module.exports = {
         gray: "#101010",
         black: "#000",
         forestgreen: "#007913",
-        steelblue: "#005c9c",
+        steelblue: "#005c9c"
       }
+    }
   },
   corePlugins: { preflight: false },
 };
